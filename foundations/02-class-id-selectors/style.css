@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdona, "DejaVu Sans", sans-serif;
+}
+
+#div-v {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#div-w {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
